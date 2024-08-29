@@ -13,5 +13,9 @@
     teller
     crossplane-cli
     kubernetes-helm
+    argocd
+    minikube
+    argocd-vault-plugin
+    istioctl
   ];
 }
